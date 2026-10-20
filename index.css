@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+
+table{
+    width: 540px;
+    height: 533px;
+    border-collapse: collapse;
+    margin-left: 50px;
+}
+th{
+    width: 90px;
+    height: 88px;
+    border: 5px solid black;
+}
+img{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+tr{
+    height:16%;
+}
